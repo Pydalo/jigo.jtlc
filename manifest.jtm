@@ -1,0 +1,26 @@
+# MANIFEST.jtm
+
+# extradata:
+author: "Peter Helmut Wohlfarth"
+release-date: "--.--.--"
+description: "A languageconcept for modern languages so much it possible"
+
+# language - jigo -
+id: "jigo"
+core: "jitran"
+version: 1.0
+core-version: 1.0
+
+# transpiler-meta:
+keywords:
+  - "universal"
+  - "modern"
+
+# dirs
+raws: "/raws"
+lm-template: "/template"
+
+# looking for jigo here:
+homepage: "https://funlanguage/this/page/not/exists"
+repository: "https://github.com/funnynotexists/funlanguage"
+forum-url: "https://jitran.net/lang/1r3uH"
